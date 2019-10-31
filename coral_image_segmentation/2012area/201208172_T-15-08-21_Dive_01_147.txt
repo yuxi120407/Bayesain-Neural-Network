@@ -1,0 +1,60 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-15-08-21_Dive_01_147.jpg"
+31.6006,3150.1380,"cm"
+2
+4.7036,8421631,2
+109,658
+256,636
+0.9006,8421631,2
+260,118
+287,127
+5,5,"Pixels/cm: 31.6006"
+2,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia"
+"Aga"
+""
+"(L) 4.7036"
+""
+""
+"(L) 0.0000"
+""
+"2"
+"Agaricia"
+"Aga"
+""
+"(L) 0.9006"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+0
+1
+1,0,0,0,0,"Aga"
+0,0,0,0,0,"Aga"
+""
+""
+""
+""
+""
+""
+""

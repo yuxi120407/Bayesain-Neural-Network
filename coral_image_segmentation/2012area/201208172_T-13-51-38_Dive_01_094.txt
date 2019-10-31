@@ -1,0 +1,84 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-13-51-38_Dive_01_094.jpg"
+21.3759,6884.4850,"cm"
+3
+1.2244,8421631,2
+251,764
+270,782
+5.7663,8421631,2
+1616,1386
+1624,1263
+1.6579,8421631,2
+1457,606
+1467,640
+5,5,"Pixels/cm: 21.3759"
+4,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Bare soft bottom"
+"SB"
+""
+""
+""
+""
+""
+""
+"2"
+"Agaricia fragilis"
+"Agaf"
+""
+"(L) 1.2244"
+""
+""
+""
+""
+"3"
+"Madracis decactis"
+"Mdrsd"
+""
+"(L) 5.7663"
+""
+""
+""
+""
+"4"
+"Helioseris cucullata"
+"Helc"
+""
+"(L) 1.6579"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+0
+0
+0
+0
+0,0,0,0,0,"Agaf"
+0,0,0,0,0,"Mdrsd"
+0,0,0,0,0,"Helc"
+""
+""
+""
+""
+""
+""
+""

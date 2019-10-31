@@ -1,0 +1,130 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-15-02-58_Dive_01_137.jpg"
+32.3025,3014.7370,"cm"
+7
+11.2505,8454016,2
+172,80
+519,188
+14.7576,8454016,2
+420,402
+3,171
+10.0692,8421631,2
+188,1168
+51,1463
+4.7963,8421631,2
+0,1414
+98,1534
+18.2450,8454016,2
+937,1333
+625,833
+7.0407,8454016,2
+1282,1059
+1068,982
+11.6131,8454016,2
+1848,687
+1713,1037
+5,5,"Pixels/cm: 32.3025"
+7,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 11.2505"
+""
+""
+""
+""
+"2"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 14.7576"
+""
+""
+""
+""
+"3"
+"Madracis formosa"
+"Mdrsf"
+""
+"(L) 10.0692"
+""
+""
+""
+""
+"4"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 4.7963"
+""
+""
+""
+""
+"5"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 18.2450"
+""
+""
+""
+""
+"6"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 7.0407"
+""
+""
+""
+""
+"7"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 11.6131"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"Mdrsf"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

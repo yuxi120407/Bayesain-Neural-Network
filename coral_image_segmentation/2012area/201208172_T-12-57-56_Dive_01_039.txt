@@ -1,0 +1,116 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-12-57-56_Dive_01_039.jpg"
+28.1514,3969.3730,"cm"
+6
+1.7647,8421631,2
+624,757
+656,795
+10.9963,8421631,2
+622,1102
+320,1034
+3.4712,8421631,2
+341,1334
+371,1241
+17.2693,8454016,2
+819,931
+640,479
+12.9251,8454016,2
+874,160
+849,523
+1.8424,8421631,2
+1467,480
+1438,523
+5,5,"Pixels/cm: 28.1514"
+6,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia fragilis"
+"Agaf"
+""
+"(L) 1.7647"
+""
+""
+""
+""
+"2"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 10.9963"
+""
+""
+""
+"WH;OM;75"
+"3"
+"Agaricia"
+"Aga"
+""
+"(L) 3.4712"
+""
+""
+""
+""
+"4"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 17.2693"
+""
+""
+""
+""
+"5"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 12.9251"
+""
+""
+""
+""
+"6"
+"Agaricia fragilis"
+"Agaf"
+""
+"(L) 1.8424"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"Agaf"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Aga"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"Agaf"
+""
+""
+""
+""
+""
+""
+""

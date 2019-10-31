@@ -1,0 +1,172 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-13-46-43_Dive_01_085.jpg"
+29.5677,3598.2020,"cm"
+10
+13.4922,8421631,2
+614,218
+969,36
+6.0042,8421631,2
+989,422
+1090,568
+1.8341,8421631,2
+859,999
+880,949
+13.2967,8421631,2
+1549,560
+1272,281
+21.1148,8421631,2
+1742,728
+1153,521
+1.5953,8421631,2
+1238,363
+1234,410
+1.6153,8421631,2
+1172,277
+1217,293
+0.9626,8421631,2
+1094,322
+1103,349
+4.0030,8421631,2
+1501,173
+1473,288
+22.6825,8454016,2
+1652,680
+1731,14
+5,5,"Pixels/cm: 29.5677"
+10,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 13.4922"
+""
+""
+""
+"WH;OM;1"
+"2"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 6.0042"
+""
+""
+""
+""
+"3"
+"Agaricia fragilis"
+"Agaf"
+""
+"(L) 1.8341"
+""
+""
+""
+""
+"4"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 13.2967"
+""
+""
+""
+""
+"5"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 21.1148"
+""
+""
+""
+""
+"6"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 1.5953"
+""
+""
+""
+""
+"7"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 1.6153"
+""
+""
+""
+""
+"8"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 0.9626"
+""
+""
+""
+""
+"9"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 4.0030"
+""
+""
+""
+""
+"10"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 22.6825"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agaf"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

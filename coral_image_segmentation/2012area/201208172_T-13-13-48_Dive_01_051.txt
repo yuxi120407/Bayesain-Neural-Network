@@ -1,0 +1,71 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-13-13-48_Dive_01_051.jpg"
+25.3955,4877.6260,"cm"
+2
+6.6771,8454016,2
+340,335
+317,503
+9.7957,8454016,2
+185,558
+222,312
+5,5,"Pixels/cm: 25.3955"
+3,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Leptoseris cucullata"
+"Lep"
+""
+"(L) 4.6734"
+""
+""
+"(L) 4.6734"
+""
+"2"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 6.6771"
+""
+""
+""
+""
+"3"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 9.7957"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+0
+0
+0
+0,0,0,0,0,"Lep"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

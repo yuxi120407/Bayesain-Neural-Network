@@ -1,0 +1,46 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-13-18-38_Dive_01_063.jpg"
+34.9285,2578.4660,"cm"
+1
+7.0188,8454016,2
+431,1097
+526,1323
+5,5,"Pixels/cm: 34.9285"
+1,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 7.0188"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

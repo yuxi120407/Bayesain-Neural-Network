@@ -1,0 +1,98 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-15-04-42_Dive_01_140.jpg"
+29.1172,3710.4160,"cm"
+4
+2.6942,8421631,2
+724,1310
+739,1387
+12.4896,8454016,2
+1219,26
+1518,233
+5.0026,8454016,2
+922,1003
+1041,919
+4.2092,8454016,2
+1050,902
+1005,788
+5,5,"Pixels/cm: 29.1172"
+5,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Bare soft bottom"
+"SB"
+""
+"(L) 4.6734"
+""
+""
+"(L) 4.6734"
+""
+"2"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 2.6942"
+""
+""
+""
+""
+"3"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 12.4896"
+""
+""
+""
+""
+"4"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 5.0026"
+""
+""
+""
+""
+"5"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 4.2092"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+0
+0
+0
+0
+0
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

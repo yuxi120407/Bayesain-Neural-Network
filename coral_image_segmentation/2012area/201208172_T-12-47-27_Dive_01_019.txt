@@ -1,0 +1,74 @@
+"E:\2018 summer\share_with_Ying\FULL_CPCE_data\201208172 - Dive 1\201208172_T-12-47-27_Dive_01_019.jpg"
+40.8678,1883.4660,"cm"
+3
+9.6038,8421631,2
+440,425
+682,734
+8.2628,8421631,2
+37,1531
+210,1241
+6.8395,8454016,2
+276,1407
+527,1530
+5,5,"Pixels/cm: 40.8678"
+3,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 9.6038"
+""
+""
+""
+"CO"
+"2"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 8.2628"
+""
+""
+""
+""
+"3"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 6.8395"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"Agalg"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,60 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-13-15-21_Dive_01_056.jpg"
+29.1760,3695.4660,"cm"
+2
+2.5142,8421631,2
+1198,1182
+1232,1247
+10.5825,8454016,2
+1868,846
+1945,1145
+5,5,"Pixels/cm: 29.1760"
+2,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Madracis decactis"
+"Mdrsd"
+""
+"(L) 2.5142"
+""
+""
+""
+""
+"2"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 10.5825"
+""
+""
+""
+"flipped"
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0,0,0,0,0,"Mdrsd"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

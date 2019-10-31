@@ -1,0 +1,66 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-15-13-47_Dive_01_157.jpg"
+36.9439,2304.8160,"cm"
+1
+0.0645,8454143,12
+1702,1093
+1691,1085
+1675,1076
+1663,1068
+1655,1059
+1649,1053
+1644,1049
+1642,1048
+1639,1047
+1637,1047
+1636,1046
+1635,1045
+5,5,"Pixels/cm: 36.9439"
+2,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Bare soft bottom"
+"SB"
+""
+""
+""
+""
+""
+""
+"2"
+"Bare soft bottom"
+"SB"
+"0.0645"
+"0.0645"
+""
+""
+"0.0645"
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+0
+0
+0,0,0,0,0,"SB"
+""
+""
+""
+""
+""
+""
+""

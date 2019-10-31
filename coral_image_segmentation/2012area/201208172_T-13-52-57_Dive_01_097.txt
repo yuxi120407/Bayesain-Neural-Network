@@ -1,0 +1,88 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-13-52-57_Dive_01_097.jpg"
+54.2087,1070.4930,"cm"
+4
+16.6320,8421631,2
+996,740
+456,18
+0.5949,8421631,2
+163,965
+179,993
+0.4810,8421631,2
+206,983
+220,1005
+3.0281,8421631,2
+2041,1353
+2034,1517
+5,5,"Pixels/cm: 54.2087"
+4,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 16.6320"
+""
+""
+"(L) 0.0000"
+"WH;NM;25"
+"2"
+"Agaricia"
+"Aga"
+""
+"(L) 0.5949"
+""
+""
+""
+""
+"3"
+"Agaricia"
+"Aga"
+""
+"(L) 0.4810"
+""
+""
+""
+""
+"4"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 3.0281"
+""
+""
+""
+"Cut off"
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+15466475
+15466475
+15466475
+1
+1,0,0,0,3,"Agalg"
+0,1,0,0,0,"Aga"
+0,1,0,0,0,"Aga"
+0,1,0,0,0,"Agalg"
+""
+""
+""
+""
+""
+""
+""

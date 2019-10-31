@@ -1,0 +1,102 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2012 Pulley Ridge Cruise\Photos\ROV Photos - CPCe and Density\201208172 - Dive 1\201208172_T-14-25-49_Dive_01_131.jpg"
+28.1301,3975.3920,"cm"
+5
+15.7489,8421631,2
+2008,0
+2038,442
+5.7775,8421631,2
+1998,1080
+2011,918
+1.7807,8421631,2
+2046,1095
+2043,1045
+9.5818,8454016,2
+367,1513
+426,1250
+13.2193,8454016,2
+1013,754
+1159,412
+5,5,"Pixels/cm: 28.1301"
+5,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 15.7489"
+""
+""
+"(L) 0.0000"
+"CO"
+"2"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 5.7775"
+""
+""
+""
+""
+"3"
+"Agaricia lamarcki/grahamae"
+"Agalg"
+""
+"(L) 1.7807"
+""
+""
+""
+"CO"
+"4"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 9.5818"
+""
+""
+""
+""
+"5"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 13.2193"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+15466475
+15466475
+0
+0
+1
+1,0,0,0,2,"Agalg"
+0,1,0,0,0,"Agalg"
+0,1,0,0,0,"Agalg"
+0,0,0,0,0,"DCP"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,60 @@
+"E:\2018 summer\share_with_Ying\FULL_CPCE_data\201208172 - Dive 1\201208172_T-12-49-26_Dive_01_023.jpg"
+57.7140,944.4078,"cm"
+2
+6.4280,8421631,2
+843,1301
+870,931
+16.8313,8454016,2
+1510,1337
+1755,397
+5,5,"Pixels/cm: 57.7140"
+2,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Madracis decactis"
+"Mdrsd"
+""
+"(L) 6.4280"
+""
+""
+""
+""
+"2"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 16.8313"
+""
+""
+""
+"CO"
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0,0,0,0,0,"Mdrsd"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""
