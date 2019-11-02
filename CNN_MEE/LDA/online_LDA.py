@@ -193,7 +193,7 @@ def elbo(phi, e_log_beta, e_log_theta, nw_kvd):
     A = tf.reduce_sum(nw_kvd * phi * (e_log_beta + e_log_theta - tf.math.log(phi + 1e-6)))
     return A.numpy()
 
-elbo(phi, e_log_beta, e_log_theta, nw_kvd)
+#elbo(phi, e_log_beta, e_log_theta, nw_kvd)
 
 #%%
 seed = 1
