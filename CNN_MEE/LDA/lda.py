@@ -78,8 +78,8 @@ V = len(vocab_list)
 
 
 # Initialize alpha and beta
-alpha = np.array([50/K + 1] * K)
-beta = np.array([0.01 + 1] * V)
+alpha = np.array([0.1] * K)
+beta = np.array([0.01] * V)
 
 
 
@@ -126,7 +126,7 @@ while step < args.step:
             N_kt_tsum[topic[m][n]] -= 1
             
             # sample new topic[m][n]
-            prob = [(N_kt[k][t] + beta[t] - 1) * (N_mk[m][k] + alpha[k] - 1) / (N_kt_tsum[k] + np.sum(beta) - 1) for k in range(K)]
+            prob = [(N_kt[k][t] + beta[t] ) * (N_mk[m][k] + alpha[k] ) / (N_kt_tsum[k] + np.sum(beta) ) for k in range(K)]
             prob = np.array(prob)
             if np.sum(prob) == 0.0:
                 prob = np.array([1/len(prob)] * len(prob))
