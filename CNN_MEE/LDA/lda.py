@@ -117,6 +117,7 @@ log_likelihood = []
 step = 0
 while step < args.step:
     changed = 0
+    start_time = time.time()
     for m in range(M):
         Nm = len(documents[m])
         for n in range(Nm):
@@ -160,8 +161,9 @@ while step < args.step:
             ll += np.log(np.sum([theta[m][k] * phi[k][t] for k in range(K)]))
     log_likelihood.append(ll)
     print("Step %d, log-likelihood=%f" % (step, ll))
-
-
+    
+    t= time.time() - start_time
+    print("Time: %f" % t)
     if changed == 0:
         break
 
